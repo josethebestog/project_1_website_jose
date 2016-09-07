@@ -1,14 +1,11 @@
-body  {
-  color: red;
-  background-color: cyan;
-  border: 2px dashed blue;
-  padding: 50px;
-  margin: 25px;
-  width: 200px;
-}
 h1 {  color: red;
-  background-color: cyan;
-  border: 2px dashed blue;
-  padding: 50px;
-  margin: 25px;
+  background-color:yellow;
+  padding-left: 1px;
+  margin-left: 5px;
   width: 200px;}
+  body  { background-color: yellow;
+    padding: 50px;
+    margin: 25px;
+    width: 200px;}
+h2{color: red;}
+p{ color: red;}
